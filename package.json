@@ -1,0 +1,15 @@
+{
+  "name": "clickbank-hoplink-generator",
+  "version": "1.0.0",
+  "description": "Generate Clickbank hoplinks online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jazzcript/clickbank-hoplink-generator"
+  },
+  "author": "jazzcript",
+  "license": "ISC"
+}
